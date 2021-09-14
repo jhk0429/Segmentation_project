@@ -28,8 +28,11 @@
 
 ## Model 2. PSPNet + Inceptionv3
 
+- Image resized to *[144,144,3]* - 
+    - (PSPNet only supports input (H,W), divisible by 48
+
 | Model  | Inceptionv3 |
 | ------------- | :-------------: | 
-| Training Time   | 20mins  |
+| Training Time   | 5mins  |
 | Inference Time   7.5ms  |
 | Accuracy  | 94%  |
