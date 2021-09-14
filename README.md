@@ -35,4 +35,4 @@
 | ------------- | :-------------: | 
 | Training Time   | 5mins  |
 | Inference Time  | 7.5ms  |
-| Accuracy  | 94%  |
+| Accuracy  | 94.5%  |
