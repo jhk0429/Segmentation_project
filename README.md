@@ -13,7 +13,7 @@
 | Model  | Resnet34 (no gpu)  | Resnet34 (with gpu)  | Resnet101  |
 | ------------- | :-------------: | :-------------: | :-------------: | 
 | Training Time |  na | 6mins    | 20mins  |
-| Inference Time  | 82ms  | **2ms** | 7.5ms  |
+| Inference Time  | 82ms  | **120ms** | 450ms  |
 | Accuracy  | na  | 93.7% | 94%  |
 
 
@@ -34,7 +34,7 @@
 | Model  | Inceptionv3 |
 | ------------- | :-------------: | 
 | Training Time   | 5mins  |
-| Inference Time  | **1ms**  |
+| Inference Time  | **14ms**  |
 | Accuracy  | 94.5%  |
 
 ![incep_psp](https://user-images.githubusercontent.com/53849669/133200250-c59cbecf-3897-48c8-aeef-e69b3670aa7e.png)
