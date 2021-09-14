@@ -6,8 +6,8 @@
 All training and Inference was done on [128 x 128 x 3] image
 
 ## Unet
-- Both resnet34 and resnet101 was trained up to 20 epochs.
-    - May need more epochs for resnet101 to converge
+- Both *resnet34* and *resnet101* were trained up to 20 epochs.
+    - May need more epochs for *resnet101* to converge
 
 | Model  | Resnet34 (no gpu)  | Resnet34 (with gpu)  | Resnet101  |
 | ------------- | :-------------: | :-------------: | :-------------: | 
