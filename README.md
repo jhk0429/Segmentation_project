@@ -40,4 +40,4 @@
 ![incep_psp](https://user-images.githubusercontent.com/53849669/133200250-c59cbecf-3897-48c8-aeef-e69b3670aa7e.png)
 ![incep_psp2](https://user-images.githubusercontent.com/53849669/133200257-383b81fe-d2b6-4534-8683-6e240bdcaad5.png)
 
-## Model 3. LinkNet (2017) + Inceptionv3
+## Model 3. LinkNet (2017) + Inceptionv3 (for Fast Segmentation)
