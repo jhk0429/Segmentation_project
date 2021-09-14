@@ -7,6 +7,6 @@
 
 | Model  | Resnet34 + Unet (no gpu)  | Resnet34 + Unet (with gpu)  | Resnet101 + Unet  |
 | ------------- | ------------- | ------------- | ------------- | 
-| Inference Time  | 82ms  | 2ms | ---------  |
-|Training Time |  ------- | 6mins    | 20mins  |
+| Inference Time  | 82ms  | 2ms | na  |
+|Training Time |  na | 6mins    | 20mins  |
 
