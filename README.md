@@ -34,5 +34,5 @@
 | Model  | Inceptionv3 |
 | ------------- | :-------------: | 
 | Training Time   | 5mins  |
-| Inference Time   7.5ms  |
+| Inference Time  | 7.5ms  |
 | Accuracy  | 94%  |
