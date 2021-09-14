@@ -3,7 +3,7 @@
 ##### Testing inference time of various backbones and models on segmentation task
 
 
-All training and Inference was done on *[128 x 128 x 3]* image
+- All training and Inference was done on *[128 x 128 x 3]* image
     - Training and Inference time likely to increase when using larger images.
 
 ## Unet
