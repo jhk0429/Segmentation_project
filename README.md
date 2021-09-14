@@ -36,3 +36,6 @@
 | Training Time   | 5mins  |
 | Inference Time  | **1ms**  |
 | Accuracy  | 94.5%  |
+
+![incep_psp](https://user-images.githubusercontent.com/53849669/133200250-c59cbecf-3897-48c8-aeef-e69b3670aa7e.png)
+![incep_psp2](https://user-images.githubusercontent.com/53849669/133200257-383b81fe-d2b6-4534-8683-6e240bdcaad5.png)
