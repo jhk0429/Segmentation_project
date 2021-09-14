@@ -13,7 +13,14 @@ All training and Inference was done on [128 x 128 x 3] image
 | Inference Time  | 82ms  | **2ms** | 7.5ms  |
 | Accuracy  | na  | 93.7% | 94%  |
 
+
+#### Resnet 34
 ![resnet34_unet](https://user-images.githubusercontent.com/53849669/133183544-117019e6-5f09-449c-87d4-3ecca423c146.png)
+![resnet34_unet2](https://user-images.githubusercontent.com/53849669/133184006-bf0f7450-5cbe-432e-80d3-9b7bcb4d2125.png)
+
+#### Resnet 101
+![resnet101_unet](https://user-images.githubusercontent.com/53849669/133184010-f01f3a3a-ee9c-4500-8f48-bf10e42729f2.png)
+![resnet101_unet2](https://user-images.githubusercontent.com/53849669/133184013-e944815e-3f70-43c2-a45d-f39adabec255.png)
 
 
 ## PSPNet
