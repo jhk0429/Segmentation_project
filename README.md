@@ -6,7 +6,7 @@
 - Training and Inference were done on *[128 x 128 x 3]* image
     - Training and Inference time likely to increase when using larger images.
 
-## Unet
+# Model 1. Unet
 - Both *resnet34* and *resnet101* were trained up to 20 epochs.
     - May need more epochs for *resnet101* to converge
 
@@ -26,4 +26,4 @@
 ![resnet101_unet2](https://user-images.githubusercontent.com/53849669/133184013-e944815e-3f70-43c2-a45d-f39adabec255.png)
 
 
-## PSPNet
+# Model 2. PSPNet
