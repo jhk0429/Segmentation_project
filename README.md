@@ -10,11 +10,11 @@
 - Both *resnet34* and *resnet101* were trained up to 20 epochs.
     - May need more epochs for *resnet101* to converge
 
-| Model  | Resnet34 (no gpu)  | Resnet34 (with gpu)  | Resnet101  |
-| ------------- | :-------------: | :-------------: | :-------------: | 
-| Training Time |  na | 6mins    | 20mins  |
-| Inference Time  | 82ms  | **120ms** | 450ms  |
-| Accuracy  | na  | 93.7% | 94%  |
+| Model   | Resnet34   | Resnet101  |
+| ------------- |  :-------------: | :-------------: | 
+| Training Time  | 6mins    | 20mins  |
+| Inference Time    | **120ms** | 450ms  |
+| Accuracy  | 93.7% | 94%  |
 
 
 #### Resnet 34 Samples
