@@ -11,7 +11,7 @@ All training and Inference was done on [128 x 128 x 3] image
 | ------------- | :-------------: | :-------------: | :-------------: | 
 | Training Time |  na | 6mins    | 20mins  |
 | Inference Time  | 82ms  | **2ms** | na  |
-
+| Accuracy  | na  | 93.7% | 94%  |
 
 
 ## PSPNet
