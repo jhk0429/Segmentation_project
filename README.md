@@ -26,4 +26,10 @@
 ![resnet101_unet2](https://user-images.githubusercontent.com/53849669/133184013-e944815e-3f70-43c2-a45d-f39adabec255.png)
 
 
-## Model 2. PSPNet
+## Model 2. PSPNet + Inceptionv3
+
+| Model  | Inceptionv3 |
+| ------------- | :-------------: | 
+| Training Time   | 20mins  |
+| Inference Time   7.5ms  |
+| Accuracy  | 94%  |
