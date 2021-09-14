@@ -14,4 +14,5 @@ All training and Inference was done on [128 x 128 x 3] image
 | Accuracy  | na  | 93.7% | 94%  |
 
 
+
 ## PSPNet
