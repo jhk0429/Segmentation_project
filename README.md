@@ -45,3 +45,8 @@
 - After choosing appropriate sementic segmentation model to work with, we can apply it directly to the custom image dataset.
 - After Training, you may run the inference code to test on other images on test dataset.
 - From this output, we further apply Blob detection code from OpenCV to correctly count the number of objects (blobs).
+
+
+## Conclusion
+
+- Tested multiple combinations of backbones and models on sementic segmentation, and seemed that **PSPNet+Inceptionv3** works the best (at least) for the two datasets that I have worked with.
