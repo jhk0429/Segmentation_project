@@ -42,6 +42,6 @@
 
 ## Blob detection with OpenCV to counter number of objects in the image
 
-After choosing appropriate sementic segmentation model to work with, we can apply it directly to the custom image dataset.
-After Training, you may run the inference code to test on other images on test dataset.
-From this output, we further apply Blob detection code from OpenCV to correctly count the number of objects (blobs).
+- After choosing appropriate sementic segmentation model to work with, we can apply it directly to the custom image dataset.
+- After Training, you may run the inference code to test on other images on test dataset.
+- From this output, we further apply Blob detection code from OpenCV to correctly count the number of objects (blobs).
