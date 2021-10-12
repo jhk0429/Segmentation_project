@@ -12,11 +12,10 @@
 - training and inference codes added for hole detection.
 
 
+### Model selection. (UNET)
 
 - Training and Inference were done on *[128 x 128 x 3]* image (Batch = 64)
     - Training and Inference time likely to increase when using larger images.
-
-## Model 1. Unet (2015)
 - Both *resnet34* and *resnet101* were trained up to 20 epochs.
     - May need more epochs for *resnet101* to converge
 
@@ -36,7 +35,7 @@
 ![resnet101_unet2](https://user-images.githubusercontent.com/53849669/133184013-e944815e-3f70-43c2-a45d-f39adabec255.png)
 
 
-## Model 2. PSPNet (2017) + Inceptionv3
+### Model selection 2. PSPNet (2017) + Inceptionv3
 
 - Image resized to *[144,144,3]* - 
     - (PSPNet only supports input (H,W), divisible by 48
@@ -50,7 +49,7 @@
 ![incep_psp](https://user-images.githubusercontent.com/53849669/133200250-c59cbecf-3897-48c8-aeef-e69b3670aa7e.png)
 ![incep_psp2](https://user-images.githubusercontent.com/53849669/133200257-383b81fe-d2b6-4534-8683-6e240bdcaad5.png)
 
-## Blob detection with OpenCV to count number of objects in the image
+### Blob detection with OpenCV to count number of objects in the image
 
 - After choosing appropriate sementic segmentation model to work with, we can apply it directly to the custom image dataset.
 - After Training, you may run the inference code to test on other images on test dataset.
