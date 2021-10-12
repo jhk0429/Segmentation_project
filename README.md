@@ -1,5 +1,6 @@
 # Segmentation_project
 
+(Summary of what I'm doing)
 - Tested accuracy/performance/inference time of various backbones and models on segmentation task
 - PSPNet+Inceptionv3 chosen to be the best model for my particular task (best model vary depending on the task)
 - Applied, trained, and applied inference on the dataset.
