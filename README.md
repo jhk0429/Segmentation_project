@@ -3,10 +3,10 @@
 (Summary of what I'm doing)
 - Tested accuracy/performance/inference time of various backbones and models on segmentation task
 - PSPNet+Inceptionv3 chosen to be the best model for my particular task (best model vary depending on the task)
-- Applied, trained, and applied inference on the dataset.
+- Applied, trained, and applied inference on the dataset. Then applied TensorRT for faster inference.
 - Image preprocessing done with **opencv**
 - Modelling (Semantic segmentation) done with **segmentation_models** library
-- First applied morphological operations on the model output, then applied contour detection, blob detection
+- Morphological operations applied to the model output, then tested/applied contour detection, blob detection code
 - Finally, task-specific algorithms to provide solution.
 
 ## 2021.10.12
