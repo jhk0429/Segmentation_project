@@ -2,8 +2,9 @@
 
 ##### Testing inference time of various backbones and models on segmentation task
 
-#### 2021.10.12
+## 2021.10.12
 - training and inference codes added for hole detection.
+
 
 
 - Training and Inference were done on *[128 x 128 x 3]* image (Batch = 64)
